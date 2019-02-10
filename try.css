@@ -1,0 +1,21 @@
+.quotebody{
+	font-size: 32px;
+	color: #ff3333;
+	font-family: 'Permanent Marker', cursive;
+}
+
+.quoteAuthor{
+	font-size: 28px;
+}
+
+.btn{
+	border-radius: 8px;
+}
+
+.btn:focus{
+	outline: none;
+}
+
+.container{
+	margin-top: 20px;
+}
